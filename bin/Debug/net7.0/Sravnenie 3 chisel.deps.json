@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Sravnenie 3 chisel/1.0.0": {
+        "runtime": {
+          "Sravnenie 3 chisel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sravnenie 3 chisel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

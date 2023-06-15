@@ -1,0 +1,15 @@
+/Users/kaora/Desktop/Seminar1/Sravnenie 3 chisel/bin/Debug/net7.0/Sravnenie 3 chisel
+/Users/kaora/Desktop/Seminar1/Sravnenie 3 chisel/bin/Debug/net7.0/Sravnenie 3 chisel.deps.json
+/Users/kaora/Desktop/Seminar1/Sravnenie 3 chisel/bin/Debug/net7.0/Sravnenie 3 chisel.runtimeconfig.json
+/Users/kaora/Desktop/Seminar1/Sravnenie 3 chisel/bin/Debug/net7.0/Sravnenie 3 chisel.dll
+/Users/kaora/Desktop/Seminar1/Sravnenie 3 chisel/bin/Debug/net7.0/Sravnenie 3 chisel.pdb
+/Users/kaora/Desktop/Seminar1/Sravnenie 3 chisel/obj/Debug/net7.0/Sravnenie 3 chisel.csproj.AssemblyReference.cache
+/Users/kaora/Desktop/Seminar1/Sravnenie 3 chisel/obj/Debug/net7.0/Sravnenie 3 chisel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaora/Desktop/Seminar1/Sravnenie 3 chisel/obj/Debug/net7.0/Sravnenie 3 chisel.AssemblyInfoInputs.cache
+/Users/kaora/Desktop/Seminar1/Sravnenie 3 chisel/obj/Debug/net7.0/Sravnenie 3 chisel.AssemblyInfo.cs
+/Users/kaora/Desktop/Seminar1/Sravnenie 3 chisel/obj/Debug/net7.0/Sravnenie 3 chisel.csproj.CoreCompileInputs.cache
+/Users/kaora/Desktop/Seminar1/Sravnenie 3 chisel/obj/Debug/net7.0/Sravnenie 3 chisel.dll
+/Users/kaora/Desktop/Seminar1/Sravnenie 3 chisel/obj/Debug/net7.0/refint/Sravnenie 3 chisel.dll
+/Users/kaora/Desktop/Seminar1/Sravnenie 3 chisel/obj/Debug/net7.0/Sravnenie 3 chisel.pdb
+/Users/kaora/Desktop/Seminar1/Sravnenie 3 chisel/obj/Debug/net7.0/Sravnenie 3 chisel.genruntimeconfig.cache
+/Users/kaora/Desktop/Seminar1/Sravnenie 3 chisel/obj/Debug/net7.0/ref/Sravnenie 3 chisel.dll
